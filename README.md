@@ -16,7 +16,6 @@ The **BlinkIT Sales Dashboard** is a comprehensive data visualization tool desig
 - [Customization](#customization)
 - [Troubleshooting](#troubleshooting)
 - [Support](#support)
-- [License](#license)
 
 ---
 
